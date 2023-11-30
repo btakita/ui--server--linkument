@@ -1,0 +1,15 @@
+{
+  "name": "@btakita/ui--server--linkument",
+  "type": "module",
+  "module": "src/index.ts",
+  "types": "src/index.ts",
+  "dependencies": {
+    "relementjs": "^0.16.1"
+  },
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.3.2"
+  }
+}
