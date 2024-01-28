@@ -4,7 +4,7 @@
   "module": "src/index.ts",
   "types": "src/index.ts",
   "dependencies": {
-    "relementjs": "^0.29.3"
+    "relementjs": "^0.57.4"
   },
   "devDependencies": {
     "bun-types": "latest"
