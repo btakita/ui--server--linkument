@@ -1,8 +1,10 @@
 {
   "name": "@btakita/ui--server--linkument",
   "type": "module",
-  "module": "src/index.ts",
   "types": "src/index.ts",
+  "exports": {
+    "./linkument": "./linkument/index.ts"
+  },
   "dependencies": {
     "relementjs": "^0.59.1"
   },
