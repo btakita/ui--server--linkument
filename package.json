@@ -6,7 +6,7 @@
     "./linkument": "./linkument/index.ts"
   },
   "dependencies": {
-    "relementjs": "^0.61.4"
+    "relementjs": "^0.61.6"
   },
   "devDependencies": {
     "bun-types": "latest"
