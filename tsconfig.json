@@ -4,7 +4,6 @@
     "target": "esnext",
     "moduleResolution": "nodenext",
     "moduleDetection": "force",
-    "allowImportingTsExtensions": true,
     "noEmit": true,
     "composite": true,
     "strict": true,
@@ -15,8 +14,7 @@
     "esModuleInterop": true,
     "allowJs": true,
     "types": [
-      "bun-types", // add Bun global
-      "rebuildjs/types"
+      "bun-types" // add Bun global
     ]
   }
 }
