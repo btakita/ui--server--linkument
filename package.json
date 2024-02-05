@@ -3,7 +3,8 @@
   "type": "module",
   "types": "src/index.ts",
   "exports": {
-    "./linkument": "./linkument/index.ts"
+    "./linkument": "./linkument/index.ts",
+    "./package.json": "./package.json"
   },
   "dependencies": {
     "relementjs": "^0.64.0"
