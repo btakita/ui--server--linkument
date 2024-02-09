@@ -1,18 +1,19 @@
 {
-  "name": "@btakita/ui--server--linkument",
-  "type": "module",
-  "types": "src/index.ts",
-  "exports": {
-    "./linkument": "./linkument/index.ts",
-    "./package.json": "./package.json"
-  },
-  "dependencies": {
-    "relementjs": "^0.68.0"
-  },
-  "devDependencies": {
-    "bun-types": "latest"
-  },
-  "peerDependencies": {
-    "typescript": "^5.3.3"
-  }
+	"name": "@btakita/ui--server--linkument",
+	"type": "module",
+	"types": "src/index.ts",
+	"exports": {
+		".": "./index.ts",
+		"./linkument": "./linkument/index.ts",
+		"./package.json": "./package.json"
+	},
+	"dependencies": {
+		"relementjs": "^0.68.1"
+	},
+	"devDependencies": {
+		"bun-types": "latest"
+	},
+	"peerDependencies": {
+		"typescript": "^5.3.3"
+	}
 }
