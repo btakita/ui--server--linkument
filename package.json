@@ -1,7 +1,7 @@
 {
 	"name": "@btakita/ui--server--linkument",
 	"type": "module",
-	"types": "src/index.ts",
+	"types": "index.ts",
 	"exports": {
 		".": "./index.ts",
 		"./linkument": "./linkument/index.ts",
