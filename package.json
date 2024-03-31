@@ -8,7 +8,7 @@
 		"./package.json": "./package.json"
 	},
 	"dependencies": {
-		"relementjs": "^0.77.1"
+		"relementjs": "^0.77.2"
 	},
 	"devDependencies": {
 		"bun-types": "latest"
